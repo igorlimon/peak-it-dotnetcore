@@ -1,0 +1,14 @@
+dotnet --version
+dotnet help
+dotnet new console --name PeakItConsole
+cd .\PeakItConsole\
+dotnet.exe build
+dotnet build -h
+dotnet.exe run
+dotnet new mvc --name PeakItMvc
+cd .\PeakItMvc\
+
+dotnet new mvc --name PeakItMvcWithAuth --auth Individual
+
+
+# try with multiple Startup files and see that it's look for method configuration
