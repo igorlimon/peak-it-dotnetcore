@@ -1,9 +1,9 @@
-peakItMvcWithAuth/obj
-peakItMvcWithAuth/bin
-PeakItConsole/obj
-PeakItConsole/bin
-PeakItMvc/obj/
-PeakItMvc/bin/
+Module1/peakItMvcWithAuth/obj
+Module1/peakItMvcWithAuth/bin
+Module1/PeakItConsole/obj
+Module1/PeakItConsole/bin
+Module1/PeakItMvc/obj/
+Module1/PeakItMvc/bin/
 Module2/PeakItMiddleware/obj
 Module2/PeakItMiddleware/bin
 Module2/PeakItMiddleware/.vs
@@ -13,3 +13,5 @@ Module2/PeakItConfiguration/.vs/
 Module2/PeakItDi/.vs/
 Module2/PeakItDi/bin/
 Module2/PeakItDi/obj/
+Module3/PeakItMvcApp/Event.db
+Module3/PeakItMvcApp/.vs
